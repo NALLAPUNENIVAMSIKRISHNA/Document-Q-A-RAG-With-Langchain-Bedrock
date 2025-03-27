@@ -1,5 +1,7 @@
 # Chat with PDF using AWS Bedrock
 
+Demo video link :- https://drive.google.com/file/d/1kCvvwV5CycOrYM7Pcnds9nt48yoJeiTJ/view?usp=sharing
+
 ## Project Overview
 This project is a Streamlit-based web application that allows users to upload and chat with PDF documents using AWS Bedrock services. The system extracts text from PDFs, generates vector embeddings using Amazon Titan, stores them in FAISS for similarity search, and retrieves responses from LLMs (Claude and Llama3) based on user queries.
 
